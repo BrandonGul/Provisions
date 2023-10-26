@@ -1,3 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://chateaudelutz.com/'
 languageCode = 'en-us'
 title = 'CHATEAU DE LUTZ'
+
+[params]
+  description = 'CHATEAU DE LUTZ is a Chicago based clothing brand'
