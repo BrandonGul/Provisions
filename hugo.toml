@@ -1,6 +1,6 @@
 baseURL = 'https://chateaudelutz.com/'
 languageCode = 'en-us'
-title = 'CHATEAU DE LUTZ'
+title = 'provisions'
 
 [params]
-  description = 'CHATEAU DE LUTZ is a Chicago based clothing brand'
+  description = 'provisions is a Chicago based brand'
